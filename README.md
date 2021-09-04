@@ -58,11 +58,13 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 </div>
 </body>
-<br>
-<br>
-<br>
+
+
+
+<hr>
 <body>
-<h3 align="center">Bem-vindo ao meu perfil!</h3>
+  Bem-vindo ao meu perfil!
+  ======
 <br>
 
 <br>
