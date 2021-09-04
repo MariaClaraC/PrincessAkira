@@ -102,7 +102,6 @@ Hey there! 👋 Whats up?
     <a href="https://github.com/MariaClaraC/edutech-PR">
     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/> </a> 
   </section>
-
 ㅤ
 ------
 <b> :compass: Where to find me</b>
@@ -122,4 +121,3 @@ Hey there! 👋 Whats up?
    - [!GitHub Streak by DenverCoder1 = http://github-readme-streak-stats.herokuapp.com/demo/; <br>
   </div> 
 </details>
-
