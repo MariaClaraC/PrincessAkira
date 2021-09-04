@@ -88,19 +88,17 @@ most used s-s-sociaw things >~< xoxox</p>
   - Guias de estilo (o próximo q irei fazer).
   
   <h4>:comet: Stats</h4>
-<hr>
   
   ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9)](https://git.io/streak-stats)
   
   <h4>:seedling: Repositório</h4>
-<hr>
+
   <section class="repository"> 
     <a href="https://github.com/MariaClaraC/edutech-PR">
     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/> </a> 
   </section>
-<hr>
   
 <b> :compass: Where to find me</b>
   <section> 
