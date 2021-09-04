@@ -62,7 +62,7 @@ most used s-s-sociaw things >~< xoxox</p>
 
 
 <hr>
-<body>
+
 Bem-vindo ao meu perfil!
 ======
 <br>
@@ -118,4 +118,4 @@ Hey there! 👋 Whats up?
    - [!GitHub Streak by DenverCoder1 = http://github-readme-streak-stats.herokuapp.com/demo/; <br>
   </div> 
 </details>
-</body>
+
