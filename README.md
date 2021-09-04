@@ -66,11 +66,12 @@ most used s-s-sociaw things >~< xoxox</p>
 <h3 align="center">Bem-vindo ao meu perfil!</h3>
 <br> <hr>
 Hey there! 👋 Whats up?
+
 - Ainda trabalhando neste readme do perfil kkk
 - No primeiro ano do ensino médio;
 - Desenho as vezes;
 - Cursando front-end na Alura;
-
+<br><br>
 #### :star: Cursos terminados e os que ainda irei fazer
 <hr>
 
@@ -82,14 +83,14 @@ Hey there! 👋 Whats up?
   - Arquitetura CSS;
   - BootStrap (atualmente);
   - Guias de estilo (o próximo q irei fazer).
-
+<br><br>
 #### :comet: Stats
 <hr>
 
 ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9)](https://git.io/streak-stats)
-
+<br><br>
 #### :comet: Repositório
 <hr>
 <section class="repository"> 
@@ -97,7 +98,7 @@ Hey there! 👋 Whats up?
     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/> </a>
 </section>
 <hr>
-
+<br><br>
 <b>Where to find me</b>
  <section> 
   <a href="https://github.com/MariaClaraC" target="_blank"><img src="https://img.shields.io/badge/github-21262c?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
