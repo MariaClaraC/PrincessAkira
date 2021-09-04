@@ -61,9 +61,10 @@ most used s-s-sociaw things >~< xoxox</p>
 
 
 ### Hey there! 👋 Whats up?
-<h4 align="center">Bem-vindo ao meu perfil!</h3>
 #### Bem-vindo ao meu perfil!
-<hr>
+
+<h3 align="center">Bem-vindo ao meu perfil!</h3>
+<br> <hr>
 Hey there! 👋 Whats up?
 - Ainda trabalhando neste readme do perfil kkk
 - No primeiro ano do ensino médio;
