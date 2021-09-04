@@ -67,7 +67,8 @@ Bem-vindo ao meu perfil!
 ======
 <br>
 
-<h4>:airplane: Sobre mim </h4>
+:airplane: Sobre mim
+------
 <p>
 Hey there! 👋 Whats up?
   
@@ -76,8 +77,8 @@ Hey there! 👋 Whats up?
   - Desenho as vezes;
   - Cursando front-end na Alura;
   
-<h4>:star: Cursos terminados e os que ainda irei fazer</h4>
-<p>
+:star: Cursos terminados e os que ainda irei fazer
+------
   
   - Lógica de programação − I e II;
   - HTML5 e CSS3 − I, II, III e IV;
@@ -88,13 +89,14 @@ Hey there! 👋 Whats up?
   - BootStrap (atualmente);
   - Guias de estilo (o próximo q irei fazer).
   
-  <h4>:comet: Stats</h4>
-  
+:comet: Stats
+ ------ 
   ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9)](https://git.io/streak-stats)
   
-  <h4>:seedling: Repositório</h4>
+seedling: Repositório
+------
 
   <section class="repository"> 
     <a href="https://github.com/MariaClaraC/edutech-PR">
