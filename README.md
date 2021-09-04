@@ -74,14 +74,15 @@ most used s-s-sociaw things >~< xoxox</p>
   #### :star: Cursos terminados e os que ainda irei fazer
 <hr>
   
-    - Lógica de programação − I e II;
-    - HTML5 e CSS3 − I, II, III e IV;
-    - FlexBox;
-    - Layouts responsivos;
-    - CSS Grid;
-    - Arquitetura CSS;
-    - BootStrap (atualmente);
-    - Guias de estilo (o próximo q irei fazer).
+  - Lógica de programação − I e II;
+  - HTML5 e CSS3 − I, II, III e IV;
+  - FlexBox;
+  - Layouts responsivos;
+  - CSS Grid;
+  - Arquitetura CSS;
+  - BootStrap (atualmente);
+  - Guias de estilo (o próximo q irei fazer).
+  
 <br>
   <h4>:comet: Stats</h4>
 <hr>
@@ -89,8 +90,7 @@ most used s-s-sociaw things >~< xoxox</p>
   ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MariaClaraC&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9)](https://git.io/streak-stats)
-  
- <br>
+<br>
   <h4>:seedling: Repositório</h4>
 <hr>
   <section class="repository"> 
