@@ -67,7 +67,7 @@ most used s-s-sociaw things >~< xoxox</p>
 
 <br>
   <h4>:airplane: Sobre mim </h4>
-<hr>
+<p>
   Hey there! 👋 Whats up?
   
   - Ainda trabalhando neste readme do perfil kkk
@@ -76,7 +76,7 @@ most used s-s-sociaw things >~< xoxox</p>
   - Cursando front-end na Alura;
   
   <h4>:star: Cursos terminados e os que ainda irei fazer</h4>
-<hr>
+<p>
   
   - Lógica de programação − I e II;
   - HTML5 e CSS3 − I, II, III e IV;
