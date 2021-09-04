@@ -63,21 +63,20 @@ most used s-s-sociaw things >~< xoxox</p>
 
 <hr>
 <body>
-  Bem-vindo ao meu perfil!
-  ======
+Bem-vindo ao meu perfil!
+======
 <br>
 
-<br>
-  <h4>:airplane: Sobre mim </h4>
+<h4>:airplane: Sobre mim </h4>
 <p>
-  Hey there! 👋 Whats up?
+Hey there! 👋 Whats up?
   
   - Ainda trabalhando neste readme do perfil kkk
   - No primeiro ano do ensino médio;
   - Desenho as vezes;
   - Cursando front-end na Alura;
   
-  <h4>:star: Cursos terminados e os que ainda irei fazer</h4>
+<h4>:star: Cursos terminados e os que ainda irei fazer</h4>
 <p>
   
   - Lógica de programação − I e II;
