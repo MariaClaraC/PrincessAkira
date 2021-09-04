@@ -69,7 +69,7 @@ Bem-vindo ao meu perfil!
 
 :airplane: Sobre mim
 ------
-<p>
+
 Hey there! 👋 Whats up?
   
   - Ainda trabalhando neste readme do perfil kkk
@@ -95,7 +95,7 @@ Hey there! 👋 Whats up?
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraC&theme=default_repocard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaClaraC&theme=onedark_duo&hide_border=true&dates=DBDADA&currStreakLabel=FFFEFE&stroke=333333F9&ring=5094F0&fire=5094F0&sideNums=D5E5FA&sideLabels=FFFEFE&currStreakNum=D5E5FAF9)](https://git.io/streak-stats)
   
-seedling: Repositório
+:seedling: Repositório
 ------
 
   <section class="repository"> 
