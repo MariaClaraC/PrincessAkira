@@ -103,7 +103,7 @@ Hey there! 👋 Whats up?
     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariaClaraC&repo=edutech-pr&theme=default_repocard"/> </a> 
   </section>
 
-:dango:
+ㅤ
 ------
 <b> :compass: Where to find me</b>
   <section> 
